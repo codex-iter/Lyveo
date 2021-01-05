@@ -12,6 +12,6 @@ pip3 install download-youtube-subtitle
 ## How to run
 ```shell
 git clone "https://github.com/codex-iter/Lyveo.git"
-cd Lyveo/youtube
+cd Lyveo/youtube/src
 python3 driver.py
 ```
